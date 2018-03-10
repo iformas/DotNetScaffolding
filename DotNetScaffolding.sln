@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetScaffolding.Lib", "DotNetScaffolding.Lib\DotNetScaffolding.Lib.csproj", "{BA594D0D-1364-43A9-8B3B-1CEE61F88DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetScaffolding.Gui", "DotNetScaffolding.Gui\DotNetScaffolding.Gui.csproj", "{01163A7C-B47B-4860-AC10-C1C9F3F6A019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA594D0D-1364-43A9-8B3B-1CEE61F88DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA594D0D-1364-43A9-8B3B-1CEE61F88DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA594D0D-1364-43A9-8B3B-1CEE61F88DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA594D0D-1364-43A9-8B3B-1CEE61F88DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01163A7C-B47B-4860-AC10-C1C9F3F6A019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01163A7C-B47B-4860-AC10-C1C9F3F6A019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01163A7C-B47B-4860-AC10-C1C9F3F6A019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01163A7C-B47B-4860-AC10-C1C9F3F6A019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
